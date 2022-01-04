@@ -1,0 +1,12 @@
+C:\Users\batur\source\repos\BookStore\BookStore.Entity\bin\Debug\net5.0\BookStore.Entity.deps.json
+C:\Users\batur\source\repos\BookStore\BookStore.Entity\bin\Debug\net5.0\BookStore.Entity.dll
+C:\Users\batur\source\repos\BookStore\BookStore.Entity\bin\Debug\net5.0\ref\BookStore.Entity.dll
+C:\Users\batur\source\repos\BookStore\BookStore.Entity\bin\Debug\net5.0\BookStore.Entity.pdb
+C:\Users\batur\source\repos\BookStore\BookStore.Entity\obj\Debug\net5.0\BookStore.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\batur\source\repos\BookStore\BookStore.Entity\obj\Debug\net5.0\BookStore.Entity.AssemblyInfoInputs.cache
+C:\Users\batur\source\repos\BookStore\BookStore.Entity\obj\Debug\net5.0\BookStore.Entity.AssemblyInfo.cs
+C:\Users\batur\source\repos\BookStore\BookStore.Entity\obj\Debug\net5.0\BookStore.Entity.csproj.CoreCompileInputs.cache
+C:\Users\batur\source\repos\BookStore\BookStore.Entity\obj\Debug\net5.0\BookStore.Entity.dll
+C:\Users\batur\source\repos\BookStore\BookStore.Entity\obj\Debug\net5.0\ref\BookStore.Entity.dll
+C:\Users\batur\source\repos\BookStore\BookStore.Entity\obj\Debug\net5.0\BookStore.Entity.pdb
+C:\Users\batur\source\repos\BookStore\BookStore.Entity\obj\Debug\net5.0\BookStore.Entity.csproj.AssemblyReference.cache
