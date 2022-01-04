@@ -62,7 +62,7 @@ namespace BookStore.UI.Forms
             }
             else
             {
-                MessageBox.Show("Failed to delete data. Please try again...");
+                MessageBox.Show("Failed to add data. Please try again...");
             }
         }
 
